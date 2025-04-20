@@ -1,4 +1,4 @@
-# probleme-solution-vmware12-et-sql-developeur-
+# Probleme-solution-vmware12-et-sql-developeur-
 probleme/solution vmware12 et sql  developeur
 
 je tiens à partager avec vous  Les Problèmes et les solution que je trouve lors de la préparation de l'environnement " machine virtuelle : vmware workstation 12" et "sql developeur 19.4" .
